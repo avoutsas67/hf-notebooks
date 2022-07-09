@@ -1,2 +1,9 @@
+# Binaries
+.venv-*
+**/__py_cache__
+
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# macOS
+**/.DS_Store

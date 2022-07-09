@@ -1,0 +1,7 @@
+#utils 
+nbformat
+
+#Chapter 1
+datasets
+'transformers[sentencepiece]'
+torch 
