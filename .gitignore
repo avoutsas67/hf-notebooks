@@ -1,6 +1,16 @@
 # Binaries
-.venv-*
+**/.venv*
 **/__py_cache__
+
+# Python project
+.pdm.toml
+pdm.lock
+
+# Configuration
+**/config.json
+
+# Torch 
+**/pytorch_model.bin
 
 # Jupyter Notebook
 .ipynb_checkpoints

@@ -3,5 +3,6 @@ nbformat
 
 #Chapter 1
 datasets
-'transformers[sentencepiece]'
+transformers
+sentencepiece
 torch 
